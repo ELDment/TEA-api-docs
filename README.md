@@ -1,6 +1,6 @@
 # 🍵 TEA-api-docs
 
-**📖 茶社区开发者接口文档 | 用心沏好每一杯API**
+**📖 [茶社区开发者接口文档 | 用心“沏”好每一杯API](https://github.com/ELDment/TEA-api-docs/wiki)**
 
 ---
 
