@@ -4,6 +4,11 @@
 
 ---
 
+## 📜 接口标准
+<img alt="接口标准" src="https://img.shields.io/badge/Principles%20-%20REST%20API-green.svg?style=flat" height="18"/>
+
+---
+
 ## 🚀 项目介绍
 **🎓 为【茶】社区开发者提供的标准化接口文档中心。**<br>
 > 🌸 本API系统采用智能熔断机制，如遇突发巨大异常流量将自动暂停对外开放。
